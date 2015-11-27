@@ -1,5 +1,9 @@
 # Unity's 2D Platformer Demo
 
+* [Video (Unity)](https://unity3d.com/learn/tutorials/modules/beginner/2d/2d-overview?playlist=17093)
+
+* [Video (Youtube)](https://www.youtube.com/watch?v=4qE8cuHI93c)
+
 ##Current Edits:
 
 Player now temporarily turns red & invincible when hit by an Enemy.
